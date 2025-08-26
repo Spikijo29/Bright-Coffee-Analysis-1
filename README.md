@@ -5,16 +5,20 @@ Analysing data for the new CEO , to understand the company's financial standing.
 The study is meant to investigate the Bright Coffee finacial performance in the last year. 
 
 # Problem Statement 
-Some of the Bright Coffee stores have not been performing and the new CEO has tasked the data analysics team to undertake the investigation.
+Some of the Bright Coffee stores have not been performing optimally and the new CEO has tasked the data analysics team to undertake the investigation.
 
 # Aim 
-The aim of the study is to investigate, mitigate and control any risk that affects the company's performance in the last 6 months.
+The aim of the study is to investigate, mitigate and control any risk that may affects the company's performance in the last 6 months.
 
 #Objectives of  the analysis 
+The objectives and goals of the analysis , is to determine if ant resecue processes need to be implemented , to determine any who to mitigate.
 
 #Tools used to undertake the invetigation/ Analysis
 -- Miro for the project plan 
---Snowflake for data analysis
---Excel ( BI) for the dashboard --data presentation 
+--Snowflake for data analysis in SQL
+-- Mricrosoft Excel 
+-- Power BI for the dashboard -- developing and creation of interactive data presentation (Dashboard)
 -- Google looker on a dashboard for data presentation 
+
+--Results :
 

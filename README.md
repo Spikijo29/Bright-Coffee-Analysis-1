@@ -12,11 +12,16 @@ The aim of the study is to investigate, mitigate and control any risk that may a
 
 #Objectives of  the analysis 
 The objectives and goals of the analysis , is to determine if ant resecue processes need to be implemented , to determine any who to mitigate.
+The project also needs to determin which products generate the most revenue
+What time of the day the stores perform
+Recommendations for inproving sales performance.
 
 #Tools used to undertake the invetigation/ Analysis
 -- Miro for the project plan 
 --Snowflake for data analysis in SQL
--- Mricrosoft Excel 
+
+Data Visualisation
+-- Mricrosoft Excel -- analyse data 
 -- Power BI for the dashboard -- developing and creation of interactive data presentation (Dashboard)
 -- Google looker on a dashboard for data presentation 
 

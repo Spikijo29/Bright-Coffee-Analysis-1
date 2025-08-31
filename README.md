@@ -2,7 +2,8 @@
 Analysing data for the new CEO , to understand the company's financial standing. 
 
 # Introduction
-The study is meant to investigate the Bright Coffee finacial performance in the last year. 
+Purpose of the Study
+The purpose of this study is to evaluate the financial performance, sales trends, and customer service outcomes of Bright Coffee’s flagship stores through data analytics. By identifying the key drivers of both strong and weak performance, the study aims to uncover actionable insights that will support leadership in improving underperforming stores, replicating best practices from high performers, and strengthening overall operational efficiency, customer satisfaction, and profitability across the brand.
 
 # Problem Statement 
 Some of the Bright Coffee stores have not been performing optimally and the new CEO has tasked the data analysics team to undertake the investigation.

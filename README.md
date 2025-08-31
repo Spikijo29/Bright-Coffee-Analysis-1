@@ -31,7 +31,11 @@ Data Visualisation
 -- Google looker on a dashboard for data presentation 
 
 --Results :
---Established flagship stores with consistent customer base.
---Availability of transaction, financial, and customer service data.
---Early adoption of analytics culture within the business.
---Leadership support for data-driven decision-makin
+--Findings on Underperformance
+Some flagship stores are underperforming due to inconsistent sales patterns, weak weekend performance, and inefficient staffing that does not align with customer demand. Inventory management issues, including both stock shortages and waste, further reduce profitability. Customer feedback highlights service gaps in certain locations, suggesting that training and customer engagement strategies are not being applied consistently. These factors combined limit revenue growth and dilute the overall brand experience.
+
+--Findings on Performance
+High-performing stores demonstrate strong and consistent sales, particularly during peak hours and weekends, supported by efficient staff allocation and proactive inventory planning. These outlets benefit from higher levels of customer satisfaction, repeat business, and better adoption of loyalty initiatives. They also show disciplined financial management, with lower costs per transaction and stronger revenue per customer, making them effective models for replication across the network
+
+--Recommendations 
+Bright Coffee should focus on strengthening its data foundations by cleaning and standardizing information while automating reporting for accuracy and timeliness. Underperforming stores can be turned around by benchmarking against top performers, optimizing staffing and inventory with demand forecasts, and replicating best practices across the network. At the same time, customer experience should be enhanced through personalized promotions, improved service quality, and targeted campaigns during peak periods to boost loyalty and sales. Financial performance must be closely monitored through real-time profitability dashboards, waste reduction, and a sharper focus on revenue per customer. Finally, fostering a data-driven culture across stores will ensure managers use insights for daily decision-making, with accountability reinforced through clear targets and recognition of strong performance

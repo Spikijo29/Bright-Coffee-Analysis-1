@@ -22,11 +22,11 @@ Recommendations to inproving sales performance.
 -- Miro for the project plan 
 --Snowflake for data analysis in SQL
 ---Microsoft Excel
--- Canva for presentation
+-- Canva for Powerpoint presentation
 --Google Looker for dashboard
 
 Data Visualisation
--- Mricrosoft Excel -- analyse data 
+-- Microsoft Excel -- Analyse data , Pivot tables
 -- Power BI for the dashboard -- developing and creation of interactive data presentation (Dashboard)
 -- Google looker on a dashboard for data presentation 
 
